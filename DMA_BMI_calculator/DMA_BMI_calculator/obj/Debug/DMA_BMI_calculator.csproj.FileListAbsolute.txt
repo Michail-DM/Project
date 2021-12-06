@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\bin\Debug\DMA_BMI_calculator.exe.config
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\bin\Debug\DMA_BMI_calculator.exe
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\bin\Debug\DMA_BMI_calculator.pdb
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.csprojAssemblyReference.cache
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.Form1.resources
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.Properties.Resources.resources
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.exe
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.pdb
+C:\Users\student\source\repos\DMA_BMI_calculator\DMA_BMI_calculator\obj\Debug\DMA_BMI_calculator.Form2.resources
