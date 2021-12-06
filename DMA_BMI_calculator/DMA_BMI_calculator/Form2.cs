@@ -16,6 +16,12 @@ namespace DMA_BMI_calculator
         float vs;
         float ro;
         float age;
+        float p1;
+        float p2;
+        float p3;
+        float p4;
+        float p5;
+        
         public Form2()
         {
             InitializeComponent();
@@ -57,12 +63,39 @@ namespace DMA_BMI_calculator
             float ag = float.Parse(ageBox.Text);
             float f = g + (vs * ves) + (ro * rost) + (age * ag);
             label5.Text = f.ToString();
+            float p1 = f*1.2f;
+            float p2 = f * 1.375f;
+            float p3 = f * 1.55f;
+            float p4 = f * 1.725f;
+            float p5 = f * 1.9f;
+            
+            label12.Text = p1.ToString("##.##");
+            label13.Text = p2.ToString("##.##");
+            label14.Text = p3.ToString("##.##");
+            label15.Text = p4.ToString("##.##");
+            label16.Text = p5.ToString("##.##");
+        }
 
-            label12.Text = f.ToString();
-            label13.Text = f.ToString();
-            label14.Text = f.ToString();
-            label15.Text = f.ToString();
-            label16.Text = f.ToString();
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form3 frm = new Form3();
+            frm.Show();
+            Close();
+        }
+
+        private void label17_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            panel1.Visible=true;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            panel1.Visible = false;
         }
     }
 }

@@ -39,8 +39,6 @@ namespace DMA_BMI_calculator
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -52,6 +50,18 @@ namespace DMA_BMI_calculator
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
+            this.button5 = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.button7 = new System.Windows.Forms.Button();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // rostBox
@@ -141,31 +151,6 @@ namespace DMA_BMI_calculator
             this.label5.Size = new System.Drawing.Size(77, 31);
             this.label5.TabIndex = 11;
             this.label5.Text = "BMR";
-            // 
-            // button2
-            // 
-            this.button2.Image = global::DMA_BMI_calculator.Properties.Resources.female_icon2;
-            this.button2.Location = new System.Drawing.Point(199, 40);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(113, 156);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button1
-            // 
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Image = global::DMA_BMI_calculator.Properties.Resources.male_icon22;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button1.Location = new System.Drawing.Point(61, 37);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(113, 163);
-            this.button1.TabIndex = 0;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label6
             // 
@@ -277,11 +262,138 @@ namespace DMA_BMI_calculator
             this.label16.TabIndex = 22;
             this.label16.Text = "Сидячий:";
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(12, 8);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(75, 23);
+            this.button5.TabIndex = 23;
+            this.button5.Text = "Назад";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.button7);
+            this.panel1.Controls.Add(this.label21);
+            this.panel1.Controls.Add(this.label20);
+            this.panel1.Controls.Add(this.label19);
+            this.panel1.Controls.Add(this.label18);
+            this.panel1.Controls.Add(this.label17);
+            this.panel1.Location = new System.Drawing.Point(250, 97);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(441, 223);
+            this.panel1.TabIndex = 24;
+            this.panel1.Visible = false;
+            // 
+            // button6
+            // 
+            this.button6.Image = global::DMA_BMI_calculator.Properties.Resources._216648_i_icon;
+            this.button6.Location = new System.Drawing.Point(713, 80);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(75, 77);
+            this.button6.TabIndex = 25;
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // button2
+            // 
+            this.button2.Image = global::DMA_BMI_calculator.Properties.Resources.female_icon2;
+            this.button2.Location = new System.Drawing.Point(199, 40);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(113, 156);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Image = global::DMA_BMI_calculator.Properties.Resources.male_icon22;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.button1.Location = new System.Drawing.Point(61, 37);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(113, 163);
+            this.button1.TabIndex = 0;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label17.Location = new System.Drawing.Point(3, 24);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(321, 18);
+            this.label17.TabIndex = 26;
+            this.label17.Text = "Сидячий: Нет работы или работа за столом ";
+            this.label17.Click += new System.EventHandler(this.label17_Click);
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label18.Location = new System.Drawing.Point(3, 44);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(393, 36);
+            this.label18.TabIndex = 27;
+            this.label18.Text = "Маленькая активность: Мало физических работы или \r\nзанятия спортом 1-3 раза в нед" +
+    "елю";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label19.Location = new System.Drawing.Point(3, 84);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(411, 36);
+            this.label19.TabIndex = 28;
+            this.label19.Text = "Средняя активность: Умеренная физическая работа или \r\nзанятия спортом 3 - 5 дней " +
+    "в неделю";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label20.Location = new System.Drawing.Point(3, 124);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(409, 36);
+            this.label20.TabIndex = 29;
+            this.label20.Text = "Сильная активность: Сильные физическая нагрузка или \r\nзанятия спортом 6 - 7 дней " +
+    "в неделю";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label21.Location = new System.Drawing.Point(3, 169);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(385, 36);
+            this.label21.TabIndex = 30;
+            this.label21.Text = "Максимальная активность: Сильная ежедневная \r\nфизическая нагрузка или спорт и физ" +
+    "ическая работа";
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(363, 0);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(75, 23);
+            this.button7.TabIndex = 31;
+            this.button7.Text = "button7";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button6);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.label14);
@@ -308,6 +420,8 @@ namespace DMA_BMI_calculator
             this.Name = "Form2";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -338,5 +452,14 @@ namespace DMA_BMI_calculator
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Button button7;
     }
 }

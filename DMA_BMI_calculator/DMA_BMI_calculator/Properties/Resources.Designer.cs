@@ -63,6 +63,16 @@ namespace DMA_BMI_calculator.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _216648_i_icon {
+            get {
+                object obj = ResourceManager.GetObject("216648_i_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap female_icon {
             get {
                 object obj = ResourceManager.GetObject("female-icon", resourceCulture);

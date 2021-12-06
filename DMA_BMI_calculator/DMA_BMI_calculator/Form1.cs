@@ -51,5 +51,12 @@ namespace DMA_BMI_calculator
             rostbox.Clear();
             vesbox.Clear();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form3 frm = new Form3();
+            frm.Show();
+            Close();
+        }
     }
 }
