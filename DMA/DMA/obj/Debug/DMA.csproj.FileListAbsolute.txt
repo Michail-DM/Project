@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\DMA\DMA\bin\Debug\DMA.exe.config
+C:\Users\student\source\repos\DMA\DMA\bin\Debug\DMA.exe
+C:\Users\student\source\repos\DMA\DMA\bin\Debug\DMA.pdb
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.Form1.resources
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.Properties.Resources.resources
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.exe
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.pdb
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.Form2.resources
+C:\Users\student\source\repos\DMA\DMA\obj\Debug\DMA.Form3.resources
