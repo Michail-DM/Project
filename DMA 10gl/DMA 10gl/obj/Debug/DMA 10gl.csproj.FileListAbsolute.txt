@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\bin\Debug\DMA 10gl.exe.config
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\bin\Debug\DMA 10gl.exe
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\bin\Debug\DMA 10gl.pdb
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA 10gl.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA_10gl.Form1.resources
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA_10gl.Properties.Resources.resources
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA 10gl.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA 10gl.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA 10gl.exe
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA 10gl.pdb
+C:\Users\student\source\repos\DMA 10gl\DMA 10gl\obj\Debug\DMA_10gl.Form2.resources
