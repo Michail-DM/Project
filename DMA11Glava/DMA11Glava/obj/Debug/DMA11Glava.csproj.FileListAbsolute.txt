@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\bin\Debug\DMA11Glava.exe.config
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\bin\Debug\DMA11Glava.exe
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\bin\Debug\DMA11Glava.pdb
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.csproj.ResolveComReference.cache
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.Form1.resources
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.Properties.Resources.resources
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.exe
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.pdb
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\Interop.WMPLib.dll
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.Form2.resources
+C:\Users\student\source\repos\DMA11Glava\DMA11Glava\obj\Debug\DMA11Glava.Form3.resources
