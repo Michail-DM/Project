@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\bin\Debug\DMA16Glava.exe.config
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\bin\Debug\DMA16Glava.exe
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\bin\Debug\DMA16Glava.pdb
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.Form1.resources
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.Properties.Resources.resources
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.exe
+C:\Users\student\source\repos\DMA16Glava\DMA16Glava\obj\Debug\DMA16Glava.pdb
