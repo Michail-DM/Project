@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\bin\Debug\DMA14Glava.exe.config
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\bin\Debug\DMA14Glava.exe
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\bin\Debug\DMA14Glava.pdb
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.Form1.resources
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.Properties.Resources.resources
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.exe
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.pdb
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.Form2.resources
+C:\Users\student\source\repos\DMA14Glava\DMA14Glava\obj\Debug\DMA14Glava.Form3.resources
